@@ -1,0 +1,25 @@
+.overfloBoxDirections{
+    margin-top: 18px;
+    height: calc( 100vh - 200px );
+    overflow-y: scroll;
+    border: 1px black solid;
+}
+.overfloBoxClients{
+    margin-top: 18px;
+    height: calc( 100vh - 180px ); 
+    overflow-y: scroll;
+    border: 1px black solid;
+}
+.item{
+    margin: 5px;
+}
+.overfloBoxDirections::-webkit-scrollbar {
+    display: none;
+}
+
+.overfloBoxClients::-webkit-scrollbar {
+    display: none;
+}
+.top{
+    margin-top: 7px;
+}
