@@ -1,5 +1,5 @@
 ﻿# Company X Technical Test
-Software soluction for the Oriontek chanllegue.
+Software soluction for the Oriontek challenge.
 ![](https://raw.githubusercontent.com/AlexitoReyes54/image/main/oriontek.PNG)
 ## Project setup
 Requirements:
